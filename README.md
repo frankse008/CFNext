@@ -5,7 +5,7 @@
 > **[Telegram 交流群](https://t.me/SZ_PAI)**　**[YouTube 频道](https://www.youtube.com/@PAI_CN)**
 
 <details>
-  <summary>点击展开查看详情</summary>
+  <summary>点击展开更新日志</summary>
   
 ---
 # 更新日志 \_V2.7.0（修复滥用及1101/552）
